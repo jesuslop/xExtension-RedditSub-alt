@@ -1,6 +1,6 @@
 This is a fork of Jim Derry's [xExtension-RedditSub](https://github.com/balthisar/xExtension-RedditSub).
 
-* alfa version of fork
+* Alpha version of fork
 * Use at your own risk
 * No maintenance commitment
 
