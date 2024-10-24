@@ -2,7 +2,7 @@ This is a fork of Jim Derry's [xExtension-RedditSub](https://github.com/balthisa
 
 * Alpha version of fork
 * Use at your own risk
-* No maintenance commitment
+* No maintenance commitment (specific proposed fixes could be considered)
 
 Entry titles are prefixed by subreddit name `/r/something`. 
 
@@ -25,6 +25,10 @@ Used in combination with custom CSS code (see 'custom CSS' FreshRSS core extensi
 ```
 
 Tweak this css and the one at `static/style.css` (defines the style of the generated title prefix) as seen fit.
+
+CAVEATS
+
+When show site icon option is set the alignement is not good.
 
 ==============================================
 
