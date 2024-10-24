@@ -1,4 +1,4 @@
-This is a fork of balthisar's [xExtension-RedditSub](https://github.com/balthisar/xExtension-RedditSub).
+This is a fork of Jim Derry's [xExtension-RedditSub](https://github.com/balthisar/xExtension-RedditSub).
 
 * alfa version of fork
 * Use at your own risk
