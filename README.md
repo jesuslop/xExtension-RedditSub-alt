@@ -1,4 +1,4 @@
-This is a fork of Jim Derry's [xExtension-RedditSub](https://github.com/balthisar/xExtension-RedditSub).
+This is a 2024 fork of Jim Derry's [xExtension-RedditSub](https://github.com/balthisar/xExtension-RedditSub).
 
 * Alpha version of fork
 * Use at your own risk
@@ -10,7 +10,7 @@ Non Reddit entries show the domain name of the link target (as shown here in red
 
 ![image](https://github.com/user-attachments/assets/b6cf110c-d7e3-413c-91b0-542ecb55320b)
 
-Used in combination with custom CSS code (see 'custom CSS' FreshRSS core extension):
+Proposed CSS snippet (for FreshRSS core extension 'custom CSS'):
 
 ```
 .flux .flux_header .item.website .websiteName,
@@ -18,17 +18,13 @@ Used in combination with custom CSS code (see 'custom CSS' FreshRSS core extensi
     font-size: 1.4em;
     padding: 3px 15px;
 }
-.tree-folder-title {
-         font-size: 1em;
-         line-height: 1.2rem;
- }
 ```
 
-Tweak this css and the one at `static/style.css` (defines the style of the generated title prefix) as seen fit.
+Custom prefix width in pixels, overflow text is clipped. You can tweak the prefix style in `static/style.css`.
 
-CAVEATS
+CAVEATS:
 
-When show site icon option is set the alignement is not good.
+When show site icon option is set, the alignement is not good.
 
 ==============================================
 
