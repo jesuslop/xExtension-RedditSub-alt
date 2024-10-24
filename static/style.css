@@ -1,5 +1,9 @@
 .subreddit_name {
+    display: inline-block;
+    width: 100px;
+    vertical-align: middle;
+    overflow: hidden;
     font-weight: lighter;
     color: #555;
-    font-size: 0.9em;
+    font-size: 0.7em;
 }
